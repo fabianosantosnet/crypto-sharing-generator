@@ -27,10 +27,14 @@
     form #cph {margin-top:-60px}
     form #btnger {width:100%}
     
-    #result {display:none}
-    div#see {margin-top:20px;background:#ddd;padding:10px}
+    #result {display:noane}
+    div#see {margin-top:20px;background:#ddd;padding:1px}
         
     #btnDonate {border:1px double #00f;border-radius:6px;padding:20px}
+
+    span#data #btndonate {width:600px !important}
+    span#data #btndonate p {color:#fff}
+    span#data #btndonate p input {min-width:200px !important;width:350px}
     
     footer {min-height:80px;background-color:#000;padding:10px;border-radius:0 0 5px 5px;margin-top:-30px}
     footer p a {text-decoration:none; color:#fff;font-family:"Libre Franklin";font-size:14px;padding:10px;border-radius:0 0 5px 5px;margin-top:-30px}    
