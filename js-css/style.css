@@ -1,0 +1,36 @@
+
+    body {background-color:#ddd;color:#444}
+    
+    #all {width:800px;margin:6px auto;font-family:Rubik;sans-serif}
+    body h1 {background:url("../img/logo.jpg") no-repeat top;height:260px}
+    nav {background-color:#000;padding:10px;border-radius:5px 5px 0 0}
+    nav ul {}
+    nav ul li {display:inline-block;margin:10px}    
+    nav ul li a {color:#fff}
+    nav ul li a:hover {color:red}
+    
+    header h1 {font-family:"Libre Franklin";font-size:22px;text-transform:uppercase;text-shadow:-1px 2px 1px #ffb;font-weight:bold;background-color:#111;padding:40px;color:#bbb}
+    section#content {background-color:#fff;min-height:500px}
+    section#content h2 {background-color:#444;padding:20px;color:#fff}
+    section#content h3 {background-color:#eee;padding:20px;margin:20px;color:#444;font-family:serif;border-left:10px double #444;font-weight:bold;font-size:1em}    
+    section#content p {padding:4px 40px;line-height:150%}
+    
+    form * {font-family:Rubik;font-size:13px;color:#444}
+    form {background-color:#f5f5f5;padding:20px;margin:30px auto;width:620px;border-radius:6px}
+    form #coinaddr,form select {width:450px}  
+    form #coinaddr:focus {border:1px double #000}
+    form textarea {width:450px;height:80px}  
+    form #coinaddr,select,form textarea {border:1px double #ddd;border-radius:3px;font-size:13px;line-height:120%;padding:8px 0 0 3px;color:#444}
+    form select {background-color:#fff;;width:456px}
+    form select option { border:2px double #ddd}
+    form label {min-width:140px;display:inline-block;text-align:right;vertical-align:middle}
+    form #cph {margin-top:-60px}
+    form #btnger {width:100%}
+    
+    #result {display:none}
+    div#see {margin-top:20px;background:#ddd;padding:10px}
+        
+    #btnDonate {border:1px double #00f;border-radius:6px;padding:20px}
+    
+    footer {min-height:80px;background-color:#000;padding:10px;border-radius:0 0 5px 5px;margin-top:-30px}
+    footer p a {text-decoration:none; color:#fff;font-family:"Libre Franklin";font-size:14px;padding:10px;border-radius:0 0 5px 5px;margin-top:-30px}    
